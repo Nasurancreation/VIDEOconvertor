@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./LOCAL/Wavy_Lst-14_Single-06.jpg" alt="VideoConvertor poster">
+  <img src=".LOCAL/IMG-20220223-WA0001.jpg" alt="VideoConvertor poster">
 </p>
 <h1 align="center">
   <b>ᴠɪᴅᴇᴏ ᴄᴏɴᴠᴇʀᴛᴏʀ</b>
@@ -10,7 +10,7 @@
   
 `Main branch` - For personal use
 <p align="left">
-<a href="https://github.com/vasusen-code/VIDEOconvertor/tree/main"> <img src="https://img.shields.io/badge/Github-main%20branch-blueviolet?style=for-the-badge&logo=github" width="220""/></a>
+<a href="https://github.com/Nasurancreation/VIDEOconvertor/tree/main"> <img src="https://img.shields.io/badge/Github-main%20branch-blueviolet?style=for-the-badge&logo=github" width="220""/></a>
 </p>
   
 `Public branch` - For your channel
